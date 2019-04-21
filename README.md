@@ -1,4 +1,5 @@
 Brian Gruessner
+
 20190421
 
 **Reflection: Plot Protein**
@@ -9,7 +10,7 @@ Plot Protein makes reasonable decisions for visualizing data.  It also uses a lo
 This visualization portrays mutation data in a way that allows the user to draw conclusions on how mutations will affect function in a reasonable way.  However, the programs does not appear quantify and predict mutants effectively.  This would be a powerful function to include in a vis, and one that I hope to include in my own.
  
 
-![alt text](https://github.com/bmgruessner/Reflection-20190421/blob/master/R20190421F1.png, "Figure 1")
+![alt text]("https://github.com/bmgruessner/Reflection-20190421/blob/master/R20190421F1.png", "Figure 1")
 Figure 1: part of output of PlotProtein (continues further downward).
 
 
