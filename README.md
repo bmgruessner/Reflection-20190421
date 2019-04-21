@@ -1,5 +1,6 @@
 Brian Gruessner
 20190421
+
 **Reflection: Plot Protein**
 
 This paper concerns a vis program called Plot Protein, which attempts to visualize mutations to predict their effect on function. This function allows for medically relevant predictions to be made about, for example, mutations in cancer, infectious disease, important genes to human health, and general mechanisms of action in biological systems. This program is relevant to my project, which attempts to do the same. Interestingly, this program uses some of the same vis methods that I have chosen to use, but its approach is very different from mine.
